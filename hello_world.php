@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Prueba html</title>
-  </head>
-  <body>
+<body>
 
-    <h1>Hola mundo</h1>
-    <p>Hola Aure</p>
+<?php
+echo "My first PHP script!";
+?>
 
-  </body>
+</body>
 </html>
